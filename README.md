@@ -1,2 +1,3 @@
 # Yang_Lee-Model
-Repo Containing the code to simulate the Yang_Lee Hamiltonain, it's spectrum and Magnetisation calculation. 
+This code simulates the Yang_Lee Hamiltonian, its spectrum and Magnetisation calculation. A detailed discussion on this can be found in the paper: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.080403.
+This code helps reproduce the plots of this paper. 
